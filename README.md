@@ -16,7 +16,9 @@
 
 ## 문제
 
-Spring Boot 3.2.0 버전에서 Batch를 사용할 때, 많은 경고 로그가 발생하는 것을 확인했습니다.
+Spring Boot 3.2.0 버전에서 Spring Batch version: 5.1 사용시, 많은 경고 로그가 발생하는 것을 확인했습니다.
+
+![경고 문구](https://woosungkim0123.github.io/static/ef3032a3928b3048925f65c45b6b6a4a/c7675/boot_3_2_warn_1.webp)
 
 ## 추측
 
